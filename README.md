@@ -41,3 +41,9 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - mysql jdbc 드라이버 lib에 추가
 - index.jsp -> login.jsp -> 로그인 버튼 -> loginAction.jsp -> userDAO.login(UserDAO.java) -> 응답 결과 loginAction.jsp에서 처리
 - - -
+
+## 5강 - 회원가입 페이지 디자인 (JSP Advanced Development Tutorial #5)
+
+- 회원가입 화면 만들기
+- - -
+
