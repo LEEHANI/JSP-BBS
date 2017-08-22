@@ -11,3 +11,16 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - tomcat 서버 내부에 있는 startup.bat 실행
 - 이클립스 Java EE Developers 다운로드
 - - -
+
+## 2강 - 로그인 페이지 디자인 (JSP Advanced Development Tutorial #2)
+
+- 인코딩을 UTF-8로 전부 바꾸고, HTML5 사용
+- bootstrap(3.7.7) 다운로드 후 webContent 밑에 복사
+- index.jsp 에서 바로 login.jsp 이동 스크립트 작성
+- login.jsp
+  - viewport 반응형 웹을 위한 해상도 처리
+  - bootstrap, JQuery 연결
+  - 하나의 웹사이트에 전반적인 구성을 보여주는 네비게이션 추가(맨 위 상단바)
+  - 로그인화면(아이디, 비밀번호 입력, 로그인 버튼) 구성화면 추가
+- - -
+  
