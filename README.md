@@ -32,3 +32,12 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - user 패키지 만들고 USer.java 파일 안에 멤버 변수 선언해주고 자바 빈즈 만들기
 - - -
 
+## 4강 - 로그인 기능 구현하기 (JSP Advanced Development Tutorial #4)
+
+- 데이터 베이스에 접근할 수 있는 UserDAO 만들어주기
+  - 데이터베이스 연결 위해 생성자에 작성해주기
+  - 데이터 베이스와 연결하여 로그인 기능 구현
+- loginAction.jsp에서 데이터베이스 연결 후 처리
+- mysql jdbc 드라이버 lib에 추가
+- index.jsp -> login.jsp -> 로그인 버튼 -> loginAction.jsp -> userDAO.login(UserDAO.java) -> 응답 결과 loginAction.jsp에서 처리
+- - -
