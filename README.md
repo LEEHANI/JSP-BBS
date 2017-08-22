@@ -23,4 +23,12 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
   - 하나의 웹사이트에 전반적인 구성을 보여주는 네비게이션 추가(맨 위 상단바)
   - 로그인화면(아이디, 비밀번호 입력, 로그인 버튼) 구성화면 추가
 - - -
-  
+
+## 3강 - 회원 데이터베이스 구축하기 (JSP Advanced Development Tutorial #3)
+
+- mysql installer 다운로드 및 설치
+- mysql에서 BBS DB 생성
+- 스키마 생성 userid, userpassword, username, usergender, useremail
+- user 패키지 만들고 USer.java 파일 안에 멤버 변수 선언해주고 자바 빈즈 만들기
+- - -
+
