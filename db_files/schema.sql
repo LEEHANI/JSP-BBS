@@ -11,15 +11,15 @@ CREATE TABLE IF NOT EXISTS USER (
   PRIMARY KEY(userID)
 );
 
-create table if not exists bbs (
+CREATE TABLE IF NOT EXISTS BBS (
 	bbsID int,
 	bbsTitle varchar(50),
 	userID varchar(20),
 	bbsDat DATETIME,
 	bbsContent varchar(2048),
 	bbsAvailable int,
-	
-)
+	primary key (bbsID)
+);
 
 
 INSERT INTO USER VALUES ('777', '777', '777', '남자', '777@777');

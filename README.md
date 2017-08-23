@@ -74,3 +74,11 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - mysql 계정 비밀번호 변경
 - - -
 
+## 10강 - 글쓰기 기능 구현하기 (JSP Advanced Development Tutorial #10)
+
+- 게시판 DB 생성
+- select now() 현재 시간 가져오는 mysql 문장
+- 함수별로 데이터 베이스 접근에 마찰이 일어나지 않도록 PreparedStatement는 함수별로 따로 선언해주기
+- main.jsp 게시판에서 글쓰기 버튼 -> write.jsp에서 제목, 내용 입력 후 글쓰기 버튼 -> writeAction.jsp -> BbsDAO.jsp(write 함수) -> 성공 했으면 bbs.jsp
+- - -
+
