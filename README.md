@@ -67,3 +67,10 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - 번호, 제목, 작성자, 작성일
 - - -
 
+## 9강 - 게시판 데이터베이스 구축하기 (JSP Advanced Development Tutorial #9)
+
+- 게시판 데이터베이스 테이블 만들기
+- 데이터 베이스에 접근하는 자바 빈즈 만들기
+- mysql 계정 비밀번호 변경
+- - -
+
