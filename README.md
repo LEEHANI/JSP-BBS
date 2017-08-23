@@ -47,3 +47,11 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - 회원가입 화면 만들기
 - - -
 
+## 6강 - 회원가입 기능 구현하기 (JSP Advanced Development Tutorial #6)
+
+- 회원가입 기능 구현
+- userDAO에 join 메서드 추가
+- DB에 기본키를 userID로 해줬기에 중복된 아이디 가입 불가능
+- 회원가입 시 입력하지 않은 값이 있으면 aler창 띄움
+- - -
+
