@@ -55,3 +55,9 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - 회원가입 시 입력하지 않은 값이 있으면 aler창 띄움
 - - -
 
+## 7강 - 접속한 회원 세션 관리하기 (JSP Advanced Development Tutorial #7)
+
+- 로그인, 회원가입 액션에서 회원 세션 처리해주기
+- 메인 화면에서 로그인 되어있을 때와 안되어 있을 때 나눠서 구현하기
+- - -
+
