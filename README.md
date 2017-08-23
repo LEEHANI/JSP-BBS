@@ -61,3 +61,9 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - 메인 화면에서 로그인 되어있을 때와 안되어 있을 때 나눠서 구현하기
 - - -
 
+## 8강 - 게시판 메인 페이지 디자인 (JSP Advanced Development Tutorial #8)
+
+- 게시판(테이블 구조) 디자인 구현하기
+- 번호, 제목, 작성자, 작성일
+- - -
+
