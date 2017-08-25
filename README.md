@@ -97,3 +97,12 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 -  크로스 사이트 스크립트 공격 -> 스크립트 문장을 제목이나 글 내용에 입력하여 공격하는 방식! 스크립트를 치환해 줌으로써 예방한다. replaceAll(" ","&nbsp;").replaceAll("<","&lt;").replaceAll("\n","<br>")
 - - -
 
+## 13강 - 게시글 수정 및 삭제 기능 구현하기 (JSP Advanced Development Tutorial #13)
+
+- 게시글 작성자만이 게시글 수정 삭제 가능
+- 삭제시 삭제할거냐고 한번 더 물어봄
+- - -
+
+
+
+
