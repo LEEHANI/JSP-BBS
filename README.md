@@ -103,6 +103,8 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - 삭제시 삭제할거냐고 한번 더 물어봄
 - - -
 
+## 14강 - 웹 사이트 메인 페이지 디자인 (JSP Advanced Development Tutorial #14)
 
-
-
+- 글씨체 css 적용
+- 메인페이지 꾸미기(글씨 삽입, 이미지 슬라이드 쇼 삽입)
+- - -
