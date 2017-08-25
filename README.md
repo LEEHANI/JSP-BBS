@@ -82,3 +82,9 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - main.jsp 게시판에서 글쓰기 버튼 -> write.jsp에서 제목, 내용 입력 후 글쓰기 버튼 -> writeAction.jsp -> BbsDAO.jsp(write 함수) -> 성공 했으면 bbs.jsp
 - - -
 
+## 11강 - 게시판 글 목록 기능 구현하기 (JSP Advanced Development Tutorial #11)
+
+- BbsDAO 에서 테이블 값 10개씩 가져오는 getList() 구현
+- BbsDAO 에서 페이징 처리를 위해 nextPage() 구현
+- bbs.jsp 에서 데이터 베이스 값 가져와서 뿌려주기, 페이징 처리 
+- - -
