@@ -71,7 +71,6 @@ public class BbsDAO {
 	}
 	
 	public ArrayList<Bbs> getList(int pageNumber) {
-		System.out.println("pageNumber :" + pageNumber);
 		String SQL = "select * from BBS where bbsID < ? and bbsAvailable = 1 order by bbsID desc limit 10";
 		ArrayList<Bbs> list = new ArrayList<Bbs>();
 		try {

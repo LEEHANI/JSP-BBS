@@ -88,3 +88,12 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - BbsDAO 에서 페이징 처리를 위해 nextPage() 구현
 - bbs.jsp 에서 데이터 베이스 값 가져와서 뿌려주기, 페이징 처리 
 - - -
+
+## 12강 - 게시글 보기 기능 구현하기 (JSP Advanced Development Tutorial #12)
+
+- 게시글 하나 상세보기 구현
+- 내가 쓴 글만 수정, 삭제 버튼 보이게 
+- 게시판 글 내용에 특수문자 입력 가능
+-  크로스 사이트 스크립트 공격 -> 스크립트 문장을 제목이나 글 내용에 입력하여 공격하는 방식! 스크립트를 치환해 줌으로써 예방한다. replaceAll(" ","&nbsp;").replaceAll("<","&lt;").replaceAll("\n","<br>")
+- - -
+
