@@ -108,3 +108,12 @@ ref. https://www.youtube.com/playlist?list=PLRx0vPvlEmdAZv_okJzox5wj2gG_fNh_6
 - 글씨체 css 적용
 - 메인페이지 꾸미기(글씨 삽입, 이미지 슬라이드 쇼 삽입)
 - - -
+
+## 15강 - 프로젝트 완성 및 배포 (JSP Advanced Development Tutorial #15)
+
+- 웹 서비스 호스팅 구매..
+- 카페 24에서 구매한 아이디와 비밀번호를 DAO 데이터베이스 서버,이름, 아이디로 변경
+- 현재 jdk 버전이 웹 서비스 호스팅서버 보다 더 높을 수 있으니 현재 프로젝트 jdk 버전 다운그레이드
+- 프로젝트 속성 위치에 있는 것을 다 복사하여 알드라이브로 업로드, build안에 있는 classes 폴더들도 업로드, lib도 업로드
+- 개인 도메인으로 업로드 http://www.dowellcomputer.com/BBS/main.jsp
+- - -
